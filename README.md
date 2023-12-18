@@ -1,4 +1,4 @@
-# pizzasalesreportportfolio
+# Pizza sales report portfolio
 
 The Portfolio Project involved importing essential data from an Excel CSV file to MS SQL Server Management Studio. 
 Through the construction of SQL queries, key performance indicators (KPIs) were extracted, providing insightful analytics for sales. 
